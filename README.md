@@ -1,6 +1,6 @@
 # 1D-Chess
 
-1d-chess is a chess variant where you can play the beautiful game without all those unneccessary and complicated extra dimensions. Play as white against the AI. You might initally find it more difficult than expected, but assming optimal play, is there a forced win for white?
+1d-chess is a chess variant where you can play the beautiful game without all those unneccessary and complicated extra dimensions. Play as white against the AI. You might initally find it more difficult than expected, but assuming optimal play, is there a forced win for white?
 
 *Note:*
 
