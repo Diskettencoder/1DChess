@@ -4,4 +4,4 @@
 
 *Note:*
 
-This chess variant was first described by Martin Gardner in the Mathematical Games column of the July 1980 issue of Scientific American, see the [column on JSTOR](https://www.jstor.org/stable/24966361)
+Based on code by [https://github.com/Rowan441/1d-chess/ Rowan441] and theory by Martin Gardner in the Mathematical Games column of the July 1980 issue of Scientific American, see the [column on JSTOR](https://www.jstor.org/stable/24966361)
